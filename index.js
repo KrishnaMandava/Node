@@ -17,6 +17,6 @@ function footer() {
   //
 }
 
-function a() {
+function b() {
   //
 }
