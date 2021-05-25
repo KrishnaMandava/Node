@@ -9,7 +9,7 @@ function logout() {
   //
 }
 
-function wish(){
+function wish() {
   //
 }
 
@@ -17,7 +17,6 @@ function footer() {
   //
 }
 
-function Greet(){
+function a() {
   //
 }
-
