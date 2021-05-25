@@ -9,6 +9,10 @@ function logout() {
   //
 }
 
-function navbar() {
+function footer() {
+  //
+}
+
+function Greet(){
   //
 }
