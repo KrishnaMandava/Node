@@ -1,7 +1,3 @@
 function login() {
   //
 }
-
-function logout() {
-  //
-}
