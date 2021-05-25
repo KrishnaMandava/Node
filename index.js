@@ -9,6 +9,10 @@ function logout() {
   //
 }
 
+function wish(){
+  //
+}
+
 function footer() {
   //
 }
@@ -16,3 +20,4 @@ function footer() {
 function Greet(){
   //
 }
+
