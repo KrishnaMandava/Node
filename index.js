@@ -2,10 +2,9 @@ function login() {
   //
 }
 
-
-function carosoul(){
+function carosoul() {
   //
-}}
+}
 function logout() {
   //
 }
