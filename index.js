@@ -20,3 +20,7 @@ function footer() {
 function b() {
   //
 }
+
+function Nav() {
+  //
+}
