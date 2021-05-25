@@ -24,3 +24,7 @@ function b() {
 function Nav() {
   //
 }
+
+function hero() {
+  //
+}
