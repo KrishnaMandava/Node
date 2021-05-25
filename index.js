@@ -28,12 +28,3 @@ const sum = (x, y) => {
 const mul = (x, y) => {
   console.log(x * y);
 };
-
-//hello git hub
-
-//i hate bootstrap
-
-//hxhsbx
-
-//xjbshxbaxh
-//bcnsabcnsabcnsambmbnamnca v
