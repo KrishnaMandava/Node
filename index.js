@@ -3,6 +3,9 @@ const log = () => {
   //
 };
 
+const div = () => {
+  console.log('div');
+};
 const add = () => {
   console.log(2 + 2);
 };
